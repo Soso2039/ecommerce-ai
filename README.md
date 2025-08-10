@@ -1,5 +1,5 @@
 # 1. Clone or download
-git clone <repo_url>
+git clone <https://github.com/Soso2039/ecommerce-ai>
 cd ecommerce-ai
 
 # 2. Install dependencies
